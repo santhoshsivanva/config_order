@@ -11,7 +11,7 @@ setup(
 	version=version,
 	description="Config Order",
 	author="Techfinite Systems",
-	author_email="it-suport",
+	author_email="it-support@techfinite.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

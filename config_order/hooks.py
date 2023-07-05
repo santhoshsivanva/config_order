@@ -4,7 +4,7 @@ app_name = "config_order"
 app_title = "Config Order"
 app_publisher = "Techfinite Systems"
 app_description = "Config Order"
-app_email = "it-suport"
+app_email = "it-support@techfinite.com"
 app_license = "MIT"
 
 # Includes in <head>
